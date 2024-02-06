@@ -15,7 +15,7 @@
             padding: 8px;
           }
           th {
-            background-color: #9acd32;
+            background-color: #ff0000;
           }
           .subject-code {
             color: blue; /* Change color to whatever you prefer */
