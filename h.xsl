@@ -10,12 +10,12 @@
             width: 100%;
           }
           th, td {
-            border: 1px solid #9acd32;
+            border: 1px solid #dddddd;
             text-align: left;
             padding: 8px;
           }
           th {
-            background-color: #f2f2f2;
+            background-color: #9acd32;
           }
           .subject-code {
             color: blue; /* Change color to whatever you prefer */
