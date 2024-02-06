@@ -18,7 +18,7 @@
             background-color: #ff0000;
           }
           .subject-code {
-            color: blue; /* Change color to whatever you prefer */
+            color: blue;
           }
         </style>
       </head>
