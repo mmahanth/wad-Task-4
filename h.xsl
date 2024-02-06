@@ -26,7 +26,6 @@
         <h2>Student Marks</h2>
         <table>
           <tr bgcolor="#9acd32">
-          <tr>
             <th>Subject</th>
             <th>Student Name</th>
             <th>Marks</th>
