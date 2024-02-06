@@ -1,0 +1,124 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type="text/xsl" href="h.xsl"?>
+<subjects>
+    <subject>
+        <name>Mathematics</name>
+        <studentName>Mahanth Varma</studentName>
+        <marks>95</marks>
+        <subjectCode>MTH101</subjectCode>
+    </subject>
+    <subject>
+        <name>English</name>
+        <studentName>Dheeraj</studentName>
+        <marks>88</marks>
+        <subjectCode>ENG102</subjectCode>
+    </subject>
+    <subject>
+        <name>Physics</name>
+        <studentName>Lokesh</studentName>
+        <marks>92</marks>
+        <subjectCode>PHY201</subjectCode>
+    </subject>
+    <subject>
+        <name>Chemistry</name>
+        <studentName>Dinesh</studentName>
+        <marks>89</marks>
+        <subjectCode>CHEM202</subjectCode>
+    </subject>
+    <subject>
+        <name>Biology</name>
+        <studentName>Vijay</studentName>
+        <marks>93</marks>
+        <subjectCode>BIO301</subjectCode>
+    </subject>
+    <subject>
+        <name>Computer Science</name>
+        <studentName>Manikanta</studentName>
+        <marks>85</marks>
+        <subjectCode>CS401</subjectCode>
+    </subject>
+    <subject>
+        <name>History</name>
+        <studentName>Guna</studentName>
+        <marks>78</marks>
+        <subjectCode>HIS501</subjectCode>
+    </subject>
+    <subject>
+        <name>Geography</name>
+        <studentName>Yashwanth</studentName>
+        <marks>82</marks>
+        <subjectCode>GEO602</subjectCode>
+    </subject>
+    <subject>
+        <name>Economics</name>
+        <studentName>Chaitanya</studentName>
+        <marks>90</marks>
+        <subjectCode>ECO701</subjectCode>
+    </subject>
+    <subject>
+        <name>Political Science</name>
+        <studentName>Lishanth</studentName>
+        <marks>87</marks>
+        <subjectCode>PSY802</subjectCode>
+    </subject>
+    <subject>
+        <name>Psychology</name>
+        <studentName>Sathwik</studentName>
+        <marks>79</marks>
+        <subjectCode>PSY902</subjectCode>
+    </subject>
+    <subject>
+        <name>Sociology</name>
+        <studentName>Shanmukh</studentName>
+        <marks>84</marks>
+        <subjectCode>SOC1001</subjectCode>
+    </subject>
+    <subject>
+        <name>Art History</name>
+        <studentName>Jai Nithin</studentName>
+        <marks>76</marks>
+        <subjectCode>ART1102</subjectCode>
+    </subject>
+    <subject>
+        <name>Statistics</name>
+        <studentName>Varun</studentName>
+        <marks>91</marks>
+        <subjectCode>STAT1203</subjectCode>
+    </subject>
+    <subject>
+        <name>Philosophy</name>
+        <studentName>Vivek</studentName>
+        <marks>86</marks>
+        <subjectCode>PHI1304</subjectCode>
+    </subject>
+    <subject>
+        <name>Literature</name>
+        <studentName>Lohith</studentName>
+        <marks>94</marks>
+        <subjectCode>LIT1405</subjectCode>
+    </subject>
+    <subject>
+        <name>Business Studies</name>
+        <studentName>Phanindra</studentName>
+        <marks>83</marks>
+        <subjectCode>BUS1506</subjectCode>
+    </subject>
+    <subject>
+        <name>Environmental Science</name>
+        <studentName>Suresh</studentName>
+        <marks>80</marks>
+        <subjectCode>ENV1607</subjectCode>
+    </subject>
+    <subject>
+        <name>Engineering</name>
+        <studentName>Pawan</studentName>
+        <marks>97</marks>
+        <subjectCode>ENG1708</subjectCode>
+    </subject>
+    <subject>
+        <name>Health Education</name>
+        <studentName>Kalyan</studentName>
+        <marks>75</marks>
+        <subjectCode>HEA1809</subjectCode>
+    </subject>
+</subjects>
