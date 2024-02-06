@@ -17,6 +17,9 @@
           th {
             background-color: #f2f2f2;
           }
+          .subject-code {
+            color: blue; /* Change color to whatever you prefer */
+          }
         </style>
       </head>
       <body>
@@ -33,7 +36,7 @@
               <td><xsl:value-of select="name"/></td>
               <td><xsl:value-of select="studentName"/></td>
               <td><xsl:value-of select="marks"/></td>
-              <td><xsl:value-of select="subjectCode"/></td>
+              <td class="subject-code"><xsl:value-of select="subjectCode"/></td>
             </tr>
           </xsl:for-each>
         </table>
